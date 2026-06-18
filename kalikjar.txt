@@ -823,103 +823,106 @@ digitalData.page.pageInfo.pageName = pageName;
         }
       },
 
-      {
-        "@type": "ItemList",
-        "@id": "https://kalikajar.desa.id/#merchant-listing",
-        "name": "Juara288",
-        "itemListOrder": "https://schema.org/ItemListOrderDescending",
-        "itemListElement": [
-          {
-            "@type": "ListItem",
-            "position": 1,
-            "item": {
-              "@type": "Product",
-              "@id": "https://kalikajar.desa.id/Agen-slot-mahjong-gacor#product",
-              "name": "slot terbaru",
-              "url": "https://kalikajar.desa.id/Agen-slot-mahjong-gacor",
-              "image": "https://i.postimg.cc/j26SkV5G/banner-juara288.png",
-              "description": "Juara288 merupakan agen resmi slot mahjong gacor yang menghadirkan pengalaman putaran mahjong yang ringan dengan minimal taruhan terjangkau, penuh bonus serta akses menuju agen Juara288 resmi.",
-              "brand": {
-                "@type": "Brand",
-                "name": "Juara288"
-              },
-              "sku": "Situs-juara288",
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.9",
-                "ratingCount": "854165"
-              },
-              "offers": {
-                "@type": "Offer",
-                "url": "https://kalikajar.desa.id//Slot-Gacor",
-                "priceCurrency": "IDR",
-                "price": "0",
-                "availability": "https://schema.org/InStock"
-              }
-            }
-          },
-          {
-            "@type": "ListItem",
-            "position": 2,
-            "item": {
-              "@type": "Product",
-              "@id": "https://kalikajar.desa.id//#product",
-              "name": "Juara288",
-              "url": "https://kalikajar.desa.id/",
-              "image": "https://i.postimg.cc/j26SkV5G/banner-juara288.png",
-              "description": "Juara288 merupakan agen resmi slot mahjong gacor yang menghadirkan pengalaman putaran mahjong yang ringan dengan minimal taruhan terjangkau, penuh bonus serta akses menuju agen Juara288 resmi.",
-              "brand": {
-                "@type": "Brand",
-                "name": "Juara288"
-              },
-              "sku": "Juara288",
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.9",
-                "ratingCount": "854165"
-              },
-              "offers": {
-                "@type": "Offer",
-                "url": "https://kalikajar.desa.id/",
-                "priceCurrency": "IDR",
-                "price": "0",
-                "availability": "https://schema.org/InStock"
-              }
-            }
-          },
-          {
-            "@type": "ListItem",
-            "position": 3,
-            "item": {
-              "@type": "Product",
-              "@id": "https://kalikajar.desa.id/Agen-slot-mahjong-gacor#product",
-              "name": "Juara288",
-              "url": "https://kalikajar.desa.id/Agen-slot-mahjong-gacor",
-              "image": "https://i.postimg.cc/j26SkV5G/banner-juara288.png",
-              "description": "Juara288 merupakan agen resmi slot mahjong gacor yang menghadirkan pengalaman putaran mahjong yang ringan dengan minimal taruhan terjangkau, penuh bonus serta akses menuju agen Juara288 resmi.",
-              "brand": {
-                "@type": "Brand",
-                "name": "Juara288"
-              },
-              "sku": "Juara288-Terlengkap",
-              "aggregateRating": {
-                "@type": "AggregateRating",
-                "ratingValue": "4.9",
-                "ratingCount": "854165"
-              },
-              "offers": {
-                "@type": "Offer",
-                "url": "https://kalikajar.desa.id//Slot-gacor",
-                "priceCurrency": "IDR",
-                "price": "0",
-                "availability": "https://schema.org/InStock"
-              }
+     {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ItemList",
+      "@id": "https://kalikajar.desa.id/#merchant-listing",
+      "name": "Juara288",
+      "itemListOrder": "https://schema.org/ItemListOrderDescending",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Product",
+            "@id": "https://kalikajar.desa.id/Agen-slot-mahjong-gacor#slot-terbaru",
+            "name": "Slot Mahjong Gacor Terbaru",
+            "url": "https://kalikajar.desa.id/Agen-slot-mahjong-gacor",
+            "image": "https://i.postimg.cc/j26SkV5G/banner-juara288.png",
+            "description": "Juara288 menghadirkan informasi seputar slot mahjong terbaru dengan akses yang mudah, pengalaman bermain ringan, serta berbagai promo menarik.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Juara288"
+            },
+            "sku": "JUARA288-SLOT-001",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "ratingCount": "854165"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://kalikajar.desa.id/slot-gacor",
+              "priceCurrency": "IDR",
+              "price": "0",
+              "availability": "https://schema.org/InStock"
             }
           }
-        ]
-      }
-    ]
-  }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Product",
+            "@id": "https://kalikajar.desa.id/#product",
+            "name": "Juara288",
+            "url": "https://kalikajar.desa.id/",
+            "image": "https://i.postimg.cc/j26SkV5G/banner-juara288.png",
+            "description": "Juara288 menyediakan berbagai informasi permainan online terbaru dengan akses cepat dan tampilan yang mudah digunakan.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Juara288"
+            },
+            "sku": "JUARA288-HOME-001",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "ratingCount": "854165"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://kalikajar.desa.id/",
+              "priceCurrency": "IDR",
+              "price": "0",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Product",
+            "@id": "https://kalikajar.desa.id/Agen-slot-mahjong-gacor#juara288-lengkap",
+            "name": "Panduan Slot Mahjong Juara288",
+            "url": "https://kalikajar.desa.id/Agen-slot-mahjong-gacor",
+            "image": "https://i.postimg.cc/j26SkV5G/banner-juara288.png",
+            "description": "Panduan lengkap Juara288 mengenai permainan slot mahjong, informasi fitur, serta berbagai pembaruan terbaru.",
+            "brand": {
+              "@type": "Brand",
+              "name": "Juara288"
+            },
+            "sku": "JUARA288-GUIDE-001",
+            "aggregateRating": {
+              "@type": "AggregateRating",
+              "ratingValue": "4.9",
+              "ratingCount": "854165"
+            },
+            "offers": {
+              "@type": "Offer",
+              "url": "https://kalikajar.desa.id/slot-gacor",
+              "priceCurrency": "IDR",
+              "price": "0",
+              "availability": "https://schema.org/InStock"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
   </script>
   <script type="application/ld+json">
 {
